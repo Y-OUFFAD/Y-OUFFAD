@@ -7,18 +7,18 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <img src="https://badges.pufler.dev/visitsY-OUFFAD/Y-OUFFAD"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/repos/Y-OUFFAD"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Y-OUFFAD" />
 
 </p>
 
 <!-- <p align="center">
   I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
 </p>-->
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+Y-OUFFAD
+<h2 align="center">Technology Stack <img src="https://github.com/Y-OUFFAD/Y-OUFFAD/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -42,14 +42,14 @@
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+ <img src="https://img.shields.io/badge/-Y-OUFFAD-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ouffad.y@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+<a href="https://www.linkedin.com/in/yacine-ouffad/">
  <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
+<!--  <a href="https://twitter.com/ritikhere307">
  <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
+</a> -->
 </p>
 
 
