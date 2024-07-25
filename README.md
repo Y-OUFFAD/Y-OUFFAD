@@ -45,7 +45,7 @@ Y-OUFFAD
  <img src="https://img.shields.io/badge/-Y-OUFFAD-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ouffad.y@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/yacine-ouffad/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+ <img src="https://img.shields.io/badge/-Y-OUFFAD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
 <!--  <a href="https://twitter.com/ritikhere307">
  <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
@@ -67,12 +67,12 @@ Y-OUFFAD
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Y-OUFFAD&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Y-OUFFAD&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Y-OUFFAD&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
